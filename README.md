@@ -7,7 +7,7 @@
 
 <a href="https://github.com/ingridbrito">
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ingridbrito&count_private=true&show_icons=true&theme=moltack"/>
-<img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridbrito&layout=compact&theme=moltack"/>
+<img width="46%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridbrito&layout=compact&theme=moltack"/>
 </div>
 
 <div style="display: inline-block">
