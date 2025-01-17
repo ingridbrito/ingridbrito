@@ -17,7 +17,6 @@
   <img align="center" alt="ingrid-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ingrid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ingrid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="width: 150px" align="right" alt="ingrid-img" src="https://i.picasion.com/pic92/0fc3759dba1f40da99664f7ff7e5c14b.gif">
 </div>
  <hr>
  <div>
